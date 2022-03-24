@@ -20,6 +20,37 @@ For Visual Studio 2019
    page.
 -  Follow the steps prompted by the installer.
 
+After launching the Visual Studio installer:
+
+-  Select the desktop development with C++ workload and make sure it is
+   checked.
+-  Make sure the **Install while downloading** option is selected for
+   faster installation.
+-  Click on **Install**
+
+.. figure:: ../images/visual_studio/install_page.PNG
+   :alt: Install Section of Visual Studio
+   :width: 600
+   :align: center
+
+   Install Section of Visual Studio 2019
+
+After the installation is complete:
+
+-  Restart your system.
+-  Create a folder inside ``C`` Drive and name it ``Development``.
+-  Inside the ``Development`` folder create a folder and name it
+   ``moja-global``
+-  Using ``cmd``, open the ``moja-global`` folder.
+
+.. figure:: ../images/visual_studio/command_prompt.PNG
+   :alt: Command Prompt of Windows
+   :width: 600
+   :align: center
+
+   Folder Path In `cmd`
+
+
 For Visual Studio 2017
 ----------------------
 

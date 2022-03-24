@@ -76,7 +76,7 @@ Enforcement
 ===========
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may
-be reported by contacting the project team at guy@moja.global. All
+be reported by contacting the project team at mentorship@moja.global. All
 complaints will be reviewed and investigated and will result in a
 response that is deemed necessary and appropriate to the circumstances.
 The project team is obligated to maintain confidentiality with regard to
@@ -92,7 +92,7 @@ Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version
 1.4, available at
-https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+https://www.contributor-covenant.org/version/1/4/code-of-conduct/
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq

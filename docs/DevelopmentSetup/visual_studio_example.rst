@@ -36,8 +36,6 @@ To build the project the cmake and C++ extensions will be required.
 These have been specified in the ``devcontainer.json`` file. To build
 the library use Cmake Configure, Build and Install.
 
-:
-
 ::
 
    "extensions": [
@@ -56,8 +54,6 @@ inside the dev-container, so there is a new version of the library
 configs for VS Code. These commands will work from the terminal in the
 running container after cmake has been successful.
 
-:
-
 ::
 
    # start in the correct folder
@@ -75,5 +71,5 @@ running container after cmake has been successful.
    # Chapman Richards - forest spatial
    moja.cli --config config/forest_config.json --config config/libs.gdal.chaprich.vscode.json --config_provider config/forest_provider.json
 
-.. _Visual Studio: ../prerequisites/visual_studio.html
+.. _Visual Studio: https://docs.moja.global/en/latest/prerequisites/visual_studio.html
 .. _Remote - Container (VS Extension): https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
